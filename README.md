@@ -1,13 +1,13 @@
-# 🧠 AI-Based Smart Face Detection and Recognition System
+# AI-Based Smart Face Detection and Recognition System
 
-## 📌 Overview
+##  Overview
 This project implements a real-time face detection and recognition system using computer vision techniques. It uses a webcam to detect human faces and recognize individuals based on a trained dataset.
 
 The system is built using Python, OpenCV, Haar Cascade, and LBPH algorithm, and can detect multiple faces and identify known persons in real time.
 
 ---
 
-## 🎯 Features
+## Features
 - Real-time face detection
 - Face recognition using LBPH
 - Detects multiple faces
@@ -27,7 +27,7 @@ The system is built using Python, OpenCV, Haar Cascade, and LBPH algorithm, and 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ai-face-detection-recognition/
 │
 ├── dataset/
@@ -39,7 +39,7 @@ ai-face-detection-recognition/
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 1. Capture face images using webcam  
 2. Store images in dataset folder  
 3. Train model using LBPH algorithm  
@@ -49,7 +49,7 @@ ai-face-detection-recognition/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Install Dependencies
 pip install opencv-contrib-python numpy
@@ -73,7 +73,7 @@ python face_recognition_system.py
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 - Emotion detection  
 - Attendance system  
 - Deep learning models  
@@ -82,7 +82,7 @@ python face_recognition_system.py
 
 ---
 
-## 🎓 Applications
+##  Applications
 - Attendance systems  
 - Security systems  
 - Surveillance  
@@ -90,18 +90,18 @@ python face_recognition_system.py
 
 ---
 
-## 📚 References
+## References
 - https://opencv.org  
 - https://python.org  
 
 ---
 
-## 👨‍💻 Authors
+## Authors
 - A Yaswanth Kumar  
 
 ---
 
-## ⭐ Note
+## Note
 Developed for the course:
 Visual Recognition and Scene Understanding (23SDCS19 R/A)  
 K L Deemed to be University (2025–26)
