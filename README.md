@@ -97,8 +97,7 @@ python face_recognition_system.py
 ---
 
 ## 👨‍💻 Authors
-- A Yaswanth Kumar (Roll No: 2300033131)  
-- M Karthikaya  
+- A Yaswanth Kumar  
 
 ---
 
